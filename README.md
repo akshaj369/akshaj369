@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Active Directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Hello world](https://github.com/joshmadakor1/Algorithms-Practice)
 
-  - [Active Directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>👨‍💻 Certificationst:</h2>
+
+- [certificate](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -18,7 +22,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akshaj369/akshaj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
